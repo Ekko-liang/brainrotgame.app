@@ -103,7 +103,7 @@ export function Footer() {
                 {content.footer.social.title}
               </h3>
               <div className="space-y-4">
-                {content.footer.social.links.map((link) => {
+                {content.footer.social.links.map((link: import('@/types/social').SocialLink) => {
                   const Icon = SocialIcons[link.icon];
                   return (
                     <div key={link.href} className="flex items-center space-x-2">
@@ -111,14 +111,14 @@ export function Footer() {
                       <a
                         href={link.href}
                         target="_blank"
-                        rel="noopener noreferrer"  // 使用 noreferrer 不传递权重
+                        rel="noopener noreferrer"
                         className={cn(
                           "text-sm",
                           theme.footer.colors.mutedText,
                           theme.footer.colors.hover
                         )}
                       >
-                        {link.icon}
+                        {link.label}
                       </a>
                     </div>
                   );

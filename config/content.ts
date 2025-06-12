@@ -46,7 +46,10 @@ Italian Brainrot Clicker is a wild, funny meme clicker game for everyone! Play f
     },
     social: {
       title: "Share",
-      links: []
+      links: [
+        { icon: 'Facebook', href: 'https://facebook.com/yourpage', label: 'Facebook' },
+        { icon: 'Twitter', href: 'https://twitter.com/yourpage', label: 'Twitter' }
+      ] as import('../types/social').SocialLink[],
     },
     legal: {
       title: "Legal",
