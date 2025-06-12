@@ -1,10 +1,10 @@
 export const siteConfig = {
-  name: "Crazy Cattle 3D",
+  name: "Italian Brainrot Clicker",
   description: "Play Crazy Cattle 3D unblocked online for free. Control crazy cattle in this 3D action game. No download required, start playing instantly in your browser!",
-  domain: "crazy-cattle.net",
-  url: "https://crazy-cattle.net",
-  email: "support@crazy-cattle.net",
-  author: "Crazy Cattle 3D",
+  domain: "brainrotgame.app",
+  url: "https://brainrotgame.app",
+  email: "linmo2024@gmail.com",
+  author: "Italian Brainrot Clicker",
   social: {
     twitter: "CrazyCattle",
     facebook: "CrazyCattle",

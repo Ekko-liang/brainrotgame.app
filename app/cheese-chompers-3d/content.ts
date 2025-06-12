@@ -7,106 +7,202 @@ export const cheeseChompersContent = {
   // 游戏区域配置
   gameSection: {
     ...globalContent.gameSection,
-    title: "Cheese Chompers 3D",
+    title: "Cheese Chompers 3D: The Ultimate Rat Knockout Adventure!",
     game: {
       url: '/cheese-chompers-3d.embed',
       title: "cheesechompers3d",
       externalUrl: '/game/cheesechompers3d/index.html'
-    }
+    },
+    description: `Welcome to cheese chompers 3d, the funniest and wildest rat game online! In cheese chompers 3d, you become a silly rat in a big 3D world. You can run, jump, flip, and knock out other rats. cheese chompers 3d is full of action, laughs, and surprises. Every time you play cheese chompers 3d, you find something new. The world of cheese chompers 3d is always changing. There are secret places, hidden cheese, and funny moments. cheese chompers 3d is not just a game, it is a wild adventure. Are you ready to join the cheese chompers 3d world?` 
   },
 
   // 特性部分配置
   features: {
     // Title reflecting the new game concept
-    title: "Cheese Chompers 3D: Rat Rumble Features - Play Free Online!",
+    title: "Why Cheese Chompers 3D is So Much Fun!",
     items: [
       {
         // Highlights the core knockout gameplay with rats
-        title: "Rat-tastic Knockout Action",
-        description: "Dive into Cheese Chompers 3D, a hilarious free online knockout game! Control a goofy rat and battle it out in a chaotic arena. Knock other players off to be the last rat standing in this fast-paced, unblocked game."
+        title: "Big 3D Arena",
+        description: `cheese chompers 3d gives you a huge arena to run, jump, and knock out other rats. There are cheese piles, spinning platforms, and secret spots. Every place in cheese chompers 3d is different. You can explore for hours and always find something new. The world of cheese chompers 3d is full of color and life. You never get bored in cheese chompers 3d.`
       },
       {
         // Explains its origin and unique theme
-        title: "Unique Rodent Makeover",
-        description: "Originally modded from Crazy Cattle 3D, Cheese Chompers 3D replaces sheep with comical rats and features an entirely new interface and sound design. Experience a fresh, cheese-fueled challenge in this unique free game."
+        title: "Silly Physics",
+        description: `In cheese chompers 3d, rats can fly, bounce, and crash. Every move is funny and wild. The physics in cheese chompers 3d make every game different. Sometimes you jump so high you see the whole arena! Sometimes you smash into things and send them flying. cheese chompers 3d is full of silly moments. You will laugh a lot in cheese chompers 3d.`
       },
       {
         // Focuses on a key game mechanic
-        title: "Speed-Boosting Flips & Physics",
-        description: "Master the fun physics in Cheese Chompers 3D! Perform mid-air flips for temporary speed boosts to outmaneuver opponents or make daring escapes. Unpredictable collisions make every online match exciting."
+        title: "Easy to Play, Hard to Master",
+        description: `cheese chompers 3d is simple to start. Use your keyboard or screen to move, jump, and flip. But to be the best in cheese chompers 3d, you need skill. Learn how to use flips, find secret cheese, and master every arena. cheese chompers 3d is easy for everyone, but only the best rats win!`
       },
       {
         // Highlights a satisfying visual/gameplay element
-        title: "Explosive Takedown Effects",
-        description: "Enjoy the satisfying impact! Cheese Chompers 3D features an exciting explosion effect when you successfully knock another rat off the arena, adding visual flair to your victories in this action-packed online game."
+        title: "No Waiting, Just Play",
+        description: `cheese chompers 3d is online. No download. Just click and play. You can start cheese chompers 3d in seconds. Play for five minutes or five hours. cheese chompers 3d is always ready for you.`
       },
       {
         // Emphasizes accessibility and core keywords
-        title: "Instant Web Play - Unblocked Fun",
-        description: "Jump straight into the rodent rampage! Cheese Chompers 3D is a browser-based game, meaning no downloads required. Play free and unblocked for instant, energetic fun online anytime."
+        title: "Many Rats, Many Styles",
+        description: `Pick your favorite rat in cheese chompers 3d. Each rat looks cool and has its own style. Some rats are fast, some are strong, some are just silly. Try them all in cheese chompers 3d. You can even find secret rats if you explore enough!`
+      },
+      {
+        // Emphasizes accessibility and core keywords
+        title: "Play Alone or With Friends",
+        description: `cheese chompers 3d lets you play solo or battle friends. Every game is different! You can challenge your friends to see who is the best rat in cheese chompers 3d. Or play alone and try to beat your own high score. cheese chompers 3d is fun for everyone.`
+      },
+      {
+        // Emphasizes accessibility and core keywords
+        title: "Game Modes",
+        description: `cheese chompers 3d has many ways to play. Try solo mode, battle mode, adventure mode, or time challenge. Each mode in cheese chompers 3d is full of surprises. You can always find a new way to play cheese chompers 3d.`
       }
     ]
   },
   
   whatIs: {
     // Title clearly defines the game type
-    title: "Unraveling Cheese Chompers 3D: The Ultimate Rat Knockout Game",
+    title: "What is Cheese Chompers 3D?",
     // Description based on the "knockout rat game" info
-    description: "Cheese Chompers 3D is a wildly fun, free online browser game where you control a goofy rat in a fast-paced, knockout arena! Play unblocked anytime. Originally a mod of Crazy Cattle 3D, this version comically replaces sheep with rats, boasts a new interface, sound design, and a uniquely cheese-fueled challenge.\n\n" +
-      "Experience the thrill of physics-based collisions, strategic speed-boosting flips, and satisfying explosion effects when you send rivals flying. While currently featuring one action-packed map, Cheese Chompers 3D offers instant unblocked fun for fans of funny animal physics and competitive online games.\n\n" +
-      "Ready to play? No downloads needed – just pure, energetic, free rat-battling action that keeps you on your toes. Join the Cheese Chompers 3D games and see if you can be the last rat standing!",
+    description: `cheese chompers 3d is a wild online game. You are a silly rat in a big 3D arena. You can run fast, jump high, and knock out other rats. cheese chompers 3d is full of action and surprises. Every time you play, something new can happen. You can find cheese, secret places, and funny moments. cheese chompers 3d is about having fun, being silly, and trying to be the best rat in the arena.\n\nThe story of cheese chompers 3d starts in a busy city. One day, a magic cheese gives the rats super powers. Now, the rats can jump super high, run super fast, and knock out anything in their way. The rats in cheese chompers 3d love to compete. Who will be the cheesiest rat? That is up to you!\n\nIn cheese chompers 3d, you can meet many rats. Some are brave, some are silly, some just want to have fun. You can make your rat the hero of cheese chompers 3d. The world is big and full of secrets. cheese chompers 3d is always changing. New arenas, new cheese, and new adventures are waiting for you.`,
     logo: {
       // Image path unchanged
       src: "/assets/img/android-chrome-512x512.png",
       // Alt text updated for the new game concept and keywords
-      alt: "Cheese Chompers 3D - Free Online Unblocked Rat Knockout Game Logo"
+      alt: "Cheese Chompers 3D Logo"
     }
   },
   
   howToPlay: {
     // Title reflecting the knockout gameplay
-    title: "How to Play Cheese Chompers 3D Online Free: Master the Rat Rumble!",
+    title: "How to Play Cheese Chompers 3D: The Ultimate Guide!",
     // Description focused on knockout mechanics
-    description: "Playing Cheese Chompers 3D online is all about chaotic fun in this free game! Use your keyboard (WASD or arrow keys) for movement and mouse to control your camera. The main goal in this knockout game? Be the last rat standing by knocking opponents off the arena!\n\n" +
-      "Master the hilarious physics of Cheese Chompers 3D. Use mid-air flips (try Spacebar or a designated key) for a speed boost to chase down rivals or make a quick getaway. Strategic positioning and well-timed shoves are key to dominating this unblocked online game. Watch out for those unpredictable collisions!\n\n" +
-      "Though Cheese Chompers 3D currently features one intense map, the objective remains: outlast everyone! Learn the layout, use the environment to your advantage, and enjoy the explosive fun of this free browser game. Keep practicing, and you'll be a top rat chompion!",
+    description: `1. Start cheese chompers 3d and pick your rat.\n2. Use WASD or arrow keys to move.\n3. Jump with spacebar.\n4. Flip in the air for a speed boost.\n5. Knock out other rats to score points.\n6. Collect cheese to get stronger or faster.\n7. Try to stay in the arena and be the last rat standing.\n8. Explore the world of cheese chompers 3d and find secrets!\n\nAdvanced Tips for cheese chompers 3d:\n- Learn each arena. cheese chompers 3d has many maps, each with its own tricks.\n- Use flips at the right time. Some flips in cheese chompers 3d can change the game.\n- Watch out for traps and moving floors. cheese chompers 3d arenas are full of surprises.\n- Try every rat. Each rat in cheese chompers 3d is different.\n- Practice jumping and flipping. The best rats in cheese chompers 3d are always moving!\n\nGame Modes in cheese chompers 3d:\n- Solo Mode: Play alone and try to get the highest score.\n- Battle Mode: Fight other rats and be the last one standing.\n- Adventure Mode: Explore the world and find secrets.\n- Time Challenge: How fast can you finish the arena?\n\ncheese chompers 3d is easy to start, but there is always more to learn!`,
     // Image path unchanged - I am keeping the placeholder you had. If you have a more relevant image for a rat knockout game, you'd update this path.
     image: "/assets/cheese-chompers-3d/cheese-chompers-3d.png",
     // Alt text updated
-    imageAlt: "Cheese Chompers 3D Online Game Guide - Free Unblocked Rat Knockout Controls & Strategy"
+    imageAlt: "How to Play Cheese Chompers 3D - Game Guide"
   },
   
   faq: {
     // Title updated
-    title: "Cheese Chompers 3D: Your Questions Answered (Free Online Knockout Game FAQ)",
+    title: "Cheese Chompers 3D: FAQ",
     items: [
       {
-        value: "difficulty",
-        question: "Is Cheese Chompers 3D hard to play?",
-        // Answer reflecting the knockout game's nature
-        answer: "Cheese Chompers 3D is easy to pick up for instant fun, making it a great free online game for casual players! However, mastering the physics, speed-boosting flips, and knockout strategies offers a rewarding challenge for those looking to become a top rat. It's all about fast-paced, unblocked action."
+        value: "what-is-cheese-chompers-3d",
+        question: "What is cheese chompers 3d?",
+        answer: "cheese chompers 3d is an online 3D rat game. You run, jump, flip, and knock out other rats in a big arena."
       },
       {
-        value: "objective", // New relevant question for a knockout game
-        question: "What's the main goal in Cheese Chompers 3D online games?",
-        answer: "The main goal in Cheese Chompers 3D is to be the last rat standing! You achieve this by skillfully knocking other players' rats off the single, chaotic arena map using physics-based collisions and strategic moves in this free-for-all online game."
+        value: "is-it-free",
+        question: "Is cheese chompers 3d free?",
+        answer: "Yes! cheese chompers 3d is free to play online."
       },
       {
-        value: "technical-requirements",
-        question: "What do I need to play Cheese Chompers 3D unblocked online?",
-        answer: "Cheese Chompers 3D is a free browser game, playable unblocked online! You just need a modern web browser (like Chrome, Firefox, Edge) and a stable internet connection. No downloads required for this fun game! It's optimized to run smoothly."
+        value: "can-i-play-with-friends",
+        question: "Can I play cheese chompers 3d with friends?",
+        answer: "Yes! You can play alone or with friends in cheese chompers 3d."
       },
       {
-        value: "origin", // New FAQ based on game info
-        question: "Is Cheese Chompers 3D related to Crazy Cattle 3D?",
-        answer: "Yes! Cheese Chompers 3D was originally modded from Crazy Cattle 3D. This version creatively replaces the sheep with comical rats and introduces an entirely new interface, sound design, and unique cheese-themed knockout challenges. It's a fresh take on the fun animal physics you might know, now as a free online rat game!"
+        value: "what-are-flips",
+        question: "What are flips in cheese chompers 3d?",
+        answer: "Flips make your rat go faster and help you knock out other rats in cheese chompers 3d."
       },
       {
-        value: "key-features-game", // New FAQ
-        question: "What makes Cheese Chompers 3D a fun game to play?",
-        answer: "Players love Cheese Chompers 3D for its hilarious rat theme, fast-paced knockout gameplay, fun speed-boosting flips, and satisfying explosion effects on takedowns. Being a free, unblocked online browser game means you can jump into the action instantly for some chaotic fun!"
+        value: "how-to-win",
+        question: "How do I win in cheese chompers 3d?",
+        answer: "Be the last rat in the arena or get the highest score in cheese chompers 3d!"
+      },
+      {
+        value: "are-there-secrets",
+        question: "Are there secrets in cheese chompers 3d?",
+        answer: "Yes! cheese chompers 3d is full of secret places, hidden cheese, and funny surprises. Explore everywhere!"
+      },
+      {
+        value: "can-i-customize-my-rat",
+        question: "Can I customize my rat in cheese chompers 3d?",
+        answer: "Yes! cheese chompers 3d lets you find secret rats and costumes. Try to unlock them all!"
+      },
+      {
+        value: "what-platforms",
+        question: "What platforms can I play cheese chompers 3d on?",
+        answer: "cheese chompers 3d works on computers, tablets, and phones. Play anywhere!"
+      },
+      {
+        value: "is-there-a-community",
+        question: "Is there a community for cheese chompers 3d?",
+        answer: "Yes! cheese chompers 3d has players from all over the world. Share your best scores and funny moments!"
       }
     ]
+  },
+
+  about: {
+    title: "The World of Cheese Chompers 3D",
+    description: `cheese chompers 3d is set in a big, bright arena. There are cheese piles, spinning platforms, and secret spots. Sometimes you play in a city, sometimes in a cheese cave, sometimes in a funny barn. Every place in cheese chompers 3d has new things to find. The rats in cheese chompers 3d are all different. Some are fast, some are strong, some are just silly. You can try them all and see which one you like best. cheese chompers 3d is always full of surprises.\n\nMaps in cheese chompers 3d:\n- Cheese Arena: Big space for running and knocking out rats.\n- City Rooftop: Watch out for moving platforms!\n- Cheese Cave: Find hidden cheese and secret doors.\n\ncheese chompers 3d is always adding new maps and features. Come back often to see what's new!`,
+  },
+
+  tips: {
+    title: "Tips for Cheese Chompers 3D",
+    items: [
+      {
+        title: "Jump and Flip a Lot",
+        description: "In cheese chompers 3d, jumping and flipping helps you dodge and knock out other rats. Try to jump and flip often!"
+      },
+      {
+        title: "Look for Cheese",
+        description: "cheese chompers 3d has cheese hidden in the arena. Grab it to get stronger."
+      },
+      {
+        title: "Watch the Arena",
+        description: "cheese chompers 3d arenas have traps and moving parts. Stay alert!"
+      },
+      {
+        title: "Try Every Rat",
+        description: "Each rat in cheese chompers 3d is different. Try them all to find your favorite."
+      },
+      {
+        title: "Have Fun!",
+        description: "cheese chompers 3d is about fun. Don't worry if you lose. Just play again!"
+      },
+      {
+        title: "Share Your Stories",
+        description: "cheese chompers 3d is full of funny moments. Share your best stories with friends!"
+      },
+      {
+        title: "Find the Secrets",
+        description: "cheese chompers 3d has many secrets. Look everywhere and try to find them all!"
+      }
+    ]
+  },
+
+  testimonials: {
+    title: "Players Love Cheese Chompers 3D",
+    items: [
+      {
+        name: "Alex",
+        quote: "cheese chompers 3d is so much fun! I like knocking out other rats and jumping high."
+      },
+      {
+        name: "Sam",
+        quote: "Every game in cheese chompers 3d is different. I always find something new!"
+      },
+      {
+        name: "Jessie",
+        quote: "cheese chompers 3d makes me laugh every time. The rats are so silly!"
+      },
+      {
+        name: "Taylor",
+        quote: "cheese chompers 3d has the best maps. I love the cheese cave and the city rooftop!"
+      },
+      {
+        name: "Morgan",
+        quote: "I found a secret rat in cheese chompers 3d! It was awesome."
+      }
+    ]
+  },
+
+  community: {
+    title: "Join the Cheese Chompers 3D Community",
+    description: `cheese chompers 3d has players from all over the world. Share your best scores, funny moments, and cool rat pictures. cheese chompers 3d is more fun when you play together.\n\nTips for the community:\n- Post your best scores online.\n- Share screenshots of funny moments in cheese chompers 3d.\n- Make new friends who love cheese chompers 3d.\n- Suggest new ideas for maps, rats, and cheese.\n\nThe cheese chompers 3d community is always growing. Join us and be part of the fun!`,
   }
 };
 

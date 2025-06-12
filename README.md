@@ -1,6 +1,6 @@
 # Crazy Cattle 3D 游戏网站
 
-🎮 **官方网站**: [Crazy Cattle 3D 官方网站](https://crazy-cattle.net/)
+🎮 **官方网站**: [Crazy Cattle 3D 官方网站](https://brainrotgame.app/)
 
 📖 **English Version**: [README_EN.md](./README_EN.md)
 
@@ -12,13 +12,13 @@ Crazy Cattle 3D 是一款基于物理引擎的 3D 动作游戏，可直接在浏
 
 ### 支持的游戏列表
 
-1. **[Crazy Cattle 3D](https://crazy-cattle.net/)** - 主要游戏，物理引擎3D动作游戏
-2. **[Crazy Cow 3D](https://crazy-cattle.net/crazy-cow-3d)** - 疯狂奶牛版本，物理引擎混乱玩法
-3. **[Cheese Chompers 3D](https://crazy-cattle.net/cheese-chompers-3d)** - 老鼠主题淘汰赛游戏
-4. **[Italian Brainrot Clicker](https://crazy-cattle.net/brainrot-clicker)** - 意大利梗点击游戏
-5. **[Basketball Bros Unblocked](https://crazy-cattle.net/basketball-bros-unblocked)** - 篮球动作游戏
-6. **[Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald)** - 宝可梦同人增强版
-7. **[Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d)** - 疯狂小鸡物理战斗游戏
+1. **[Crazy Cattle 3D](https://brainrotgame.app/)** - 主要游戏，物理引擎3D动作游戏
+2. **[Crazy Cow 3D](https://brainrotgame.app/crazy-cow-3d)** - 疯狂奶牛版本，物理引擎混乱玩法
+3. **[Cheese Chompers 3D](https://brainrotgame.app/cheese-chompers-3d)** - 老鼠主题淘汰赛游戏
+4. **[Italian Brainrot Clicker](https://brainrotgame.app/brainrot-clicker)** - 意大利梗点击游戏
+5. **[Basketball Bros Unblocked](https://brainrotgame.app/basketball-bros-unblocked)** - 篮球动作游戏
+6. **[Pokemon Gamma Emerald](https://brainrotgame.app/pokemon-gamma-emerald)** - 宝可梦同人增强版
+7. **[Crazy Chicken 3D](https://brainrotgame.app/crazy-chicken-3d)** - 疯狂小鸡物理战斗游戏
 
 ### 主要功能
 
@@ -201,11 +201,11 @@ npm run clean-sitemap
 ## 相关链接和资源
 
 ### 官方页面
-- 🏠 **主页**: [Crazy Cattle 3D 官方网站](https://crazy-cattle.net/)
-- 📞 **联系我们**: [联系我们](https://crazy-cattle.net/contact)
-- ℹ️ **关于我们**: [关于我们](https://crazy-cattle.net/about)
-- 🔒 **隐私政策**: [隐私政策](https://crazy-cattle.net/privacy-policy)
-- 📋 **服务条款**: [服务条款](https://crazy-cattle.net/terms-of-service)
+- 🏠 **主页**: [Crazy Cattle 3D 官方网站](https://brainrotgame.app/)
+- 📞 **联系我们**: [联系我们](https://brainrotgame.app/contact)
+- ℹ️ **关于我们**: [关于我们](https://brainrotgame.app/about)
+- 🔒 **隐私政策**: [隐私政策](https://brainrotgame.app/privacy-policy)
+- 📋 **服务条款**: [服务条款](https://brainrotgame.app/terms-of-service)
 
 ### 外部链接 (Footer Quick Links)
 - 🐍 **Snake Game**: [在线贪吃蛇游戏](https://snake-game.online)

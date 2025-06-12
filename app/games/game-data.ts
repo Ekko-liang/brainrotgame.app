@@ -12,7 +12,7 @@ export const games: Record<string, Game> = {
     title: "Crazy Cattle 3D",
     description: "The original free online 3D action game with explosive physics-based gameplay. Control crazy cattle and battle it out!",
     image: "/assets/crazycattle3d-howto.jpg",
-    url: "/",
+    url: "/crazy-cattle-3d",
   },
   "crazy-cow-3d": {
     id: "crazy-cow-3d",
@@ -33,7 +33,7 @@ export const games: Record<string, Game> = {
     title: "Italian Brainrot Clicker",
     description: "Dive into Italian Brainrot Clicker! Tap through meme madness in this addictive online clicker game. Instant play, no download!",
     image: "/assets/brainrot-clicker/brainrot-clicker.jpg",
-    url: "/brainrot-clicker",
+    url: "/",
   },
   "basketball-bros-unblocked": {
     id: "basketball-bros-unblocked",
@@ -62,13 +62,6 @@ export const games: Record<string, Game> = {
     description: "Create amazing music beats with colorful characters in this fun interactive music game. Drag and drop to make music!",
     image: "/assets/sprunki-incredibox/sprunki-incredibox.webp",
     url: "/sprunki-incredibox",
-  },
-  "doodle-baseball": {
-    id: "doodle-baseball",
-    title: "Doodle Baseball",
-    description: "Classic Google Doodle baseball game! Control cute food characters as batters and test your timing skills in this fun and addictive baseball experience.",
-    image: "https://doodle-baseball.net/assets/doodle-baseball/doodle-baseball.webp",
-    url: "https://doodle-baseball.net/",
   }
 };
 

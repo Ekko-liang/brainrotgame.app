@@ -31,9 +31,32 @@ const AboutPage = () => {
 
             <section>
               <h2 className="text-2xl font-semibold mb-3">Our Games</h2>
-              <p>
-                From the explosive sheep battles in Crazy Cattle 3D to the hilarious antics of Crazy Cow 3D and the cheesy knockouts in Cheese Chompers 3D, we strive to deliver quality and fun. Each game is crafted with care, focusing on unique gameplay mechanics and endless replayability. We are constantly working on new titles and updates to existing games based on player feedback and our creative vision.
-              </p>
+              <ul className="list-disc pl-6 space-y-2">
+                <li>
+                  <strong>Italian Brainrot Clicker：</strong> A wild meme clicker game—tap to unlock crazy Italian meme characters and upgrades, chase high scores, and laugh nonstop!
+                </li>
+                <li>
+                  <strong>Crazy Cow 3D：</strong> Control a bouncy cow, smash obstacles, and race through wacky 3D levels packed with surprises.
+                </li>
+                <li>
+                  <strong>Crazy Chicken 3D：</strong> Guide a speedy chicken through fun 3D challenges—dodge, jump, and collect as many points as you can.
+                </li>
+                <li>
+                  <strong>Cheese Chompers 3D：</strong> Become a hungry mouse, chomp cheese, avoid traps, and outsmart rivals in a fast-paced 3D maze.
+                </li>
+                <li>
+                  <strong>Basketball Bros Unblocked：</strong> Play quick, action-packed basketball matches with friends—easy to start, hard to master!
+                </li>
+                <li>
+                  <strong>Pokemon Gamma Emerald：</strong> Explore a fan-made Pokémon world, catch creatures, battle trainers, and discover new adventures.
+                </li>
+                <li>
+                  <strong>Sprunki Incredibox：</strong> Mix beats and sounds with unique Sprunki characters—create your own music in this playful remix game.
+                </li>
+                <li>
+                  <strong>Crazy Cattle 3D：</strong> Take charge of a wild herd, crash through obstacles, and enjoy chaotic physics fun in 3D.
+                </li>
+              </ul>
             </section>
             
             <section>

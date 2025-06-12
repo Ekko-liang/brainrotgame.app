@@ -1,6 +1,6 @@
 # Crazy Cattle 3D Game Website
 
-🎮 **Official Website**: [Crazy Cattle 3D Official Website](https://crazy-cattle.net/)
+🎮 **Official Website**: [Crazy Cattle 3D Official Website](https://brainrotgame.app/)
 
 📖 **中文版本**: [README.md](./README.md)
 
@@ -35,14 +35,14 @@ The game delivers 30-minute matches of pure explosive action, where strategic po
 
 ### Supported Games List
 
-1. **[Crazy Cattle 3D](https://crazy-cattle.net/)** - Main game, physics-based 3D action game
-2. **[Crazy Cow 3D](https://crazy-cattle.net/crazy-cow-3d)** - Crazy cow version with physics-based chaotic gameplay
-3. **[Cheese Chompers 3D](https://crazy-cattle.net/cheese-chompers-3d)** - Rat-themed knockout game
-4. **[Italian Brainrot Clicker](https://crazy-cattle.net/brainrot-clicker)** - Italian meme clicker game
-5. **[Basketball Bros Unblocked](https://crazy-cattle.net/basketball-bros-unblocked)** - Basketball action game
-6. **[Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald)** - Enhanced Pokemon fan-made version
-7. **[Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d)** - Crazy chicken physics battle game
-8. **[Sprunki Incredibox](https://crazy-cattle.net/sprunki-incredibox)** - Interactive music creation fan-mod game
+1. **[Crazy Cattle 3D](https://brainrotgame.app/)** - Main game, physics-based 3D action game
+2. **[Crazy Cow 3D](https://brainrotgame.app/crazy-cow-3d)** - Crazy cow version with physics-based chaotic gameplay
+3. **[Cheese Chompers 3D](https://brainrotgame.app/cheese-chompers-3d)** - Rat-themed knockout game
+4. **[Italian Brainrot Clicker](https://brainrotgame.app/brainrot-clicker)** - Italian meme clicker game
+5. **[Basketball Bros Unblocked](https://brainrotgame.app/basketball-bros-unblocked)** - Basketball action game
+6. **[Pokemon Gamma Emerald](https://brainrotgame.app/pokemon-gamma-emerald)** - Enhanced Pokemon fan-made version
+7. **[Crazy Chicken 3D](https://brainrotgame.app/crazy-chicken-3d)** - Crazy chicken physics battle game
+8. **[Sprunki Incredibox](https://brainrotgame.app/sprunki-incredibox)** - Interactive music creation fan-mod game
 
 ### Main Features
 
@@ -229,11 +229,11 @@ To add new games, follow these steps:
 ## Related Links and Resources
 
 ### Official Pages
-- 🏠 **Homepage**: [Crazy Cattle 3D Official Website](https://crazy-cattle.net/)
-- 📞 **Contact Us**: [Contact Us](https://crazy-cattle.net/contact)
-- ℹ️ **About Us**: [About Us](https://crazy-cattle.net/about)
-- 🔒 **Privacy Policy**: [Privacy Policy](https://crazy-cattle.net/privacy-policy)
-- 📋 **Terms of Service**: [Terms of Service](https://crazy-cattle.net/terms-of-service)
+- 🏠 **Homepage**: [Crazy Cattle 3D Official Website](https://brainrotgame.app/)
+- 📞 **Contact Us**: [Contact Us](https://brainrotgame.app/contact)
+- ℹ️ **About Us**: [About Us](https://brainrotgame.app/about)
+- 🔒 **Privacy Policy**: [Privacy Policy](https://brainrotgame.app/privacy-policy)
+- 📋 **Terms of Service**: [Terms of Service](https://brainrotgame.app/terms-of-service)
 
 ### External Links (Footer Quick Links)
 - 🐍 **Snake Game**: [Online Snake Game](https://snake-game.online)
