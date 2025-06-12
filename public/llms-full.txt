@@ -1,14 +1,12 @@
-# Crazy Cattle 3D - Comprehensive Game Information
+# Italian Brainrot Clicker - Comprehensive Game Information
 
-> Crazy Cattle 3D is a free online browser game where you control crazy cattle in a physics-based 3D action environment. Play instantly without download, directly in your web browser.
+> Italian Brainrot Clicker is a free online meme clicker game where you tap your way through viral Italian brainrot energy! Play instantly in your browser—no downloads, just pure meme fun and endless clicker action.
 
 ## Game Overview
 
-Crazy Cattle 3D is an independently developed battle royale game featuring explosive physics-based gameplay. Unlike traditional battle royale games that focus on weapon collection, Crazy Cattle 3D creates a unique gaming experience through momentum and collision mechanics.
+Italian Brainrot Clicker is a wildly entertaining incremental clicker game inspired by the viral Italian brainrot meme trend. Instead of traditional action or battle mechanics, you'll be clicking to collect brainrot points, unlock meme upgrades, and climb the leaderboards. The game is easy to start, but offers endless depth and humor for those who want to master the art of Italian brainrot!
 
-The game offers three distinct environments: the rolling hills of Ireland, volcanic Iceland, and mountainous New Zealand. Each map provides unique strategic opportunities and terrain challenges. Players control explosive sheep (despite the "cattle" name) and must master momentum-based attacks to eliminate opponents.
-
-While the learning curve may be steep for newcomers, the game's physics system delivers a deeply satisfying experience once mastered. The game requires no downloads and runs directly in modern web browsers, making it accessible from virtually any device with sufficient processing power.
+With a colorful, meme-filled interface and tons of unlockable content, Italian Brainrot Clicker is perfect for anyone who loves memes, clicker games, or just wants a good laugh. Play for free, challenge your friends, and see how much Italian brainrot you can handle!
 
 ## Game Versions
 
@@ -20,7 +18,7 @@ The original version features the complete physics-based battle royale experienc
 - High score tracking and achievements
 - Optimized performance for browser-based gameplay
 
-URL: https://brainrotgame.app
+URL: https://brainrotgame.app/crazy-cattle-3d
 
 ### Crazy Cow 3D
 An alternative version with a focus on hilarious physics-based mayhem rather than competitive gameplay. This version includes:
@@ -51,7 +49,7 @@ Italian Brainrot Clicker is an intense, free online incremental game that hilari
 - Endless mode for high score chasing
 - Browser-based, no-download, unblocked fun
 
-URL: https://brainrotgame.app/brainrot-clicker
+URL: https://brainrotgame.app/
 
 ### Basketball Bros Unblocked
 Basketball Bros Unblocked is an exciting and fun free online basketball game. Play unblocked and enjoy fast-paced matches with unique characters and abilities. It's a great game for quick fun or competitive play against friends. This game offers a unique take on basketball with quirky characters and exaggerated physics. Perfect for anyone looking for a casual sports game experience.
@@ -95,17 +93,16 @@ URL: https://brainrotgame.app/sprunki-incredibox
 ## How To Play
 
 ### Controls
-- WASD Keys: Movement controls for directing your cattle
-- Mouse: Precise steering and aiming
-- Space Bar: Trigger special collision ability (timing is crucial)
-- Shift Key: Speed boost (limited usage)
+- Mouse: Click anywhere to collect brainrot points
+- Tap: On mobile, tap the screen to play
+- Upgrade Buttons: Use your points to buy meme upgrades and power-ups
 
 ### Gameplay Tips
-1. Master momentum by building speed before collisions
-2. Use terrain elevation for strategic advantage
-3. Time your special abilities to maximize impact
-4. Learn each environment's unique features
-5. Practice movement control before attempting competitive play
+1. Click as fast as you can to maximize your brainrot score
+2. Invest in upgrades early to automate your meme collection
+3. Watch for special meme events and power-ups for bonus points
+4. Compete on the leaderboards to become the ultimate Italian brainrot master
+5. Explore all meme stages and unlock every upgrade for endless fun
 
 Detailed guide: https://brainrotgame.app/#how-to-play
 
@@ -113,43 +110,31 @@ Detailed guide: https://brainrotgame.app/#how-to-play
 
 ### Minimum Requirements
 - Browser: Chrome 80+, Firefox 75+, Edge 80+
-- RAM: 4GB
+- RAM: 2GB
 - Processor: Dual-core 2.0 GHz
-- Graphics: Updated drivers with WebGL support
-- Internet: Stable connection (2 Mbps+)
+- Internet: Stable connection (1 Mbps+)
 
 ### Recommended Requirements
 - Browser: Latest Chrome or Firefox
-- RAM: 8GB
+- RAM: 4GB
 - Processor: Quad-core 2.5 GHz
-- Graphics: Dedicated GPU with updated drivers
 - Internet: 5 Mbps+ connection
 
 ## Frequently Asked Questions
 
-### Is Crazy Cattle 3D difficult for beginners?
-The game has a learning curve due to its physics-based mechanics. New players should expect to spend 30-60 minutes mastering the basic controls. The tutorial mode helps ease this process, and the Crazy Cow 3D version offers a more accessible experience for casual players.
+### Is Italian Brainrot Clicker easy for beginners?
+Absolutely! The game is designed to be accessible for all ages. Just start clicking and enjoy the meme madness. Upgrades and tips will help you progress quickly.
 
 ### Does the game require installation?
-No. Crazy Cattle 3D runs entirely in your web browser. There are no downloads, installations, or plugins required. Simply visit the website and start playing immediately.
+No. Italian Brainrot Clicker runs entirely in your web browser. No downloads, no plugins—just visit the site and start playing instantly.
 
-### Is Crazy Cattle 3D free to play?
-Yes, the game is completely free. There are no paywalls, premium features, or in-game purchases. All game content is accessible to all players.
+### Is Italian Brainrot Clicker free to play?
+Yes, the game is 100% free. There are no paywalls or in-game purchases. All content is available to every player.
 
-### What makes Crazy Cattle 3D different from other online games?
-The game's unique physics engine creates gameplay focused on momentum and collision rather than traditional shooting or resource collection. This creates unpredictable and often hilarious gameplay moments that are rare in other browser-based games.
+### What makes Italian Brainrot Clicker different from other clicker games?
+The unique Italian meme theme, endless upgrades, and viral humor set this game apart. It's a clicker game that's as funny as it is addictive!
 
 Complete FAQ: https://brainrotgame.app/#faq
-
-## Related Resources
-
-### Blue Prince Guide
-A comprehensive gaming guide website with additional tips and strategies for physics-based games including Crazy Cattle 3D.
-URL: https://blue-prince.net
-
-### AI Image Generator
-A free tool for creating custom game-related images and avatars.
-URL: https://aiimage.pics
 
 ### Other Free Online Games
 Discover more browser-based games that require no download.
@@ -158,9 +143,9 @@ URL: https://brainrotgame.app/#other-games
 ## Legal Information
 
 ### Privacy Policy
-Our privacy policy details how we collect, use, and protect user data. The game collects minimal information required for gameplay functionality.
+Our privacy policy explains how we collect and protect your data. Italian Brainrot Clicker collects minimal information for gameplay only.
 URL: https://brainrotgame.app/privacy-policy
 
 ### Terms of Service
-Our terms outline the rules and guidelines for using the Crazy Cattle 3D website and game.
+Our terms outline the rules and guidelines for using the Italian Brainrot Clicker website and game.
 URL: https://brainrotgame.app/terms-of-service
